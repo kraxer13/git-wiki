@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+docs: update view-results-in-terminal.md (#66)
