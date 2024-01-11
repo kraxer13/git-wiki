@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add HUB-SDK Docs reference section (#7781)
