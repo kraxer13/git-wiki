@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add C++ Classify inference example (#6868)
