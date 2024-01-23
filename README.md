@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update OpenVINO INT8 export (#7515)
