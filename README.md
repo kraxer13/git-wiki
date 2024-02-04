@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
