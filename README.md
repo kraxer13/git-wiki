@@ -1,1 +1,1 @@
-fix predict with class filter
+Add brain-tumor dataset docs page (#9041)
