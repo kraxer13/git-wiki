@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix cmake requirements for ARM64 (#8589)
