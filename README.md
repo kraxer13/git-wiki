@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
