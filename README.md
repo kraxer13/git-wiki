@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
